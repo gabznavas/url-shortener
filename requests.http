@@ -1,0 +1,7 @@
+### Criar URL
+POST http://localhost:8080/url
+Content-Type: application/json
+
+{
+  "url": "http://example.com"
+}
